@@ -76,3 +76,5 @@ D:\Study\HOC KY 2 - HTTT2023\ATBM\DoAn\Phase-1\PhanHe1\obj\Debug\PhanHe1.csproj.
 D:\Study\HOC KY 2 - HTTT2023\ATBM\DoAn\Phase-1\PhanHe1\obj\Debug\PhanHe1.csproj.CopyComplete
 D:\Study\HOC KY 2 - HTTT2023\ATBM\DoAn\Phase-1\PhanHe1\obj\Debug\PhanHe1.exe
 D:\Study\HOC KY 2 - HTTT2023\ATBM\DoAn\Phase-1\PhanHe1\obj\Debug\PhanHe1.pdb
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\PhanHe1\obj\Debug\PhanHe1.exe
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\PhanHe1\obj\Debug\PhanHe1.pdb

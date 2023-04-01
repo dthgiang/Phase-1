@@ -18,7 +18,7 @@ namespace PhanHe1
         public Form1()
         {
             InitializeComponent();
-            string connectionString = "TNS_ADMIN=C:\\Users\\ADMIN\\Oracle\\network\\admin;USER ID=GOD;Password=123;DATA SOURCE=localhost:1521/XE;PERSIST SECURITY INFO=True";
+            string connectionString = "TNS_ADMIN=C:\\Users\\ADMIN\\Oracle\\network\\admin;USER ID=DB_MANAGER;Password=123;DATA SOURCE=localhost:1521/XE;PERSIST SECURITY INFO=True";
             connection = new OracleConnection(connectionString);
         }
 
