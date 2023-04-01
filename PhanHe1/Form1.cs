@@ -14,11 +14,12 @@ namespace PhanHe1
 {
     public partial class Form1 : Form
     {
+        OracleConnection connection = null;
         public Form1()
         {
             InitializeComponent();
-            string connectionString = "Data Source=localhost;Persist Security Info=True;User ID=c##HW3_3";
-            OracleConnection connection = new OracleConnection(connectionString);
+            string connectionString = "TNS_ADMIN=C:\\Users\\ADMIN\\Oracle\\network\\admin;USER ID=GOD;Password=123;DATA SOURCE=localhost:1521/XE;PERSIST SECURITY INFO=True";
+            connection = new OracleConnection(connectionString);
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -28,7 +29,7 @@ namespace PhanHe1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 f2= new Form2();
+            Form2 f2= new Form2(connection);
             f2.Show();
 
         }
