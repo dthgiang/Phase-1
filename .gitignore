@@ -1,3 +1,4 @@
-.cache
-PhanHe1/bin/Debug/PhanHe1.exe
-PhanHe1/bin/Debug/PhanHe1.pdb
+.vs/
+Phase_1/bin/
+Phase_1/obj/
+packages/
