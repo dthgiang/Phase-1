@@ -14,12 +14,18 @@ namespace Phase_1
 {
     public partial class Form2 : Form
     {
+        OracleConnection connection = null;
         public Form2()
         {
             InitializeComponent();
-            string connectionString = "Data Source=localhost;Persist Security Info=True;User ID=c##HW3_3";
-            OracleConnection connection = new OracleConnection(connectionString);
         }
+        public Form2(OracleConnection connection)
+        {
+            InitializeComponent();
+            this.connection = connection;
+
+        }
+
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -39,6 +45,13 @@ namespace Phase_1
 
             // Set the location of the form
             this.Location = new Point(x, y);
+
+            OracleDataAdapter adt = new OracleDataAdapter("select * from sys.USER_INFO", connection);
+
+            DataTable userTable = new DataTable();
+
+            adt.Fill(userTable);
+            dataGridView1.DataSource = userTable;
         }
     }
 }

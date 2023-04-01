@@ -7,26 +7,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Oracle.ManagedDataAccess.Client;
+
 
 namespace Phase_1
 {
     public partial class Form1 : Form
     {
+        OracleConnection connection = null;
         public Form1()
         {
             InitializeComponent();
+            string connectionString = "TNS_ADMIN=C:\\Users\\ADMIN\\Oracle\\network\\admin;USER ID=GOD;Password=123;DATA SOURCE=localhost:1521/XE;PERSIST SECURITY INFO=True";
+            connection = new OracleConnection(connectionString);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 f2 = new Form2();
+            Form2 f2 = new Form2(connection);
             this.Hide();
             f2.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Form3 f3 = new Form3();
+            Form3 f3 = new Form3(connection);
             this.Hide();
             f3.Show();
         }

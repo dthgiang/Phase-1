@@ -16,3 +16,40 @@ D:\Study\HOC KY 2 - HTTT2023\ATBM\ProjectATBM\Phase_1\obj\Debug\Phase_1.Form5.re
 D:\Study\HOC KY 2 - HTTT2023\ATBM\ProjectATBM\Phase_1\obj\Debug\Phase_1.Form6.resources
 D:\Study\HOC KY 2 - HTTT2023\ATBM\ProjectATBM\Phase_1\obj\Debug\Phase_1.Form7.resources
 D:\Study\HOC KY 2 - HTTT2023\ATBM\ProjectATBM\Phase_1\obj\Debug\Phase_1.Form8.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.csprojAssemblyReference.cache
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Form1.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Form2.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Form3.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Form4.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Form5.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Form6.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Form7.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Form8.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.Properties.Resources.resources
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.csproj.GenerateResource.cache
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.csproj.CoreCompileInputs.cache
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.exe
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.pdb
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\Phase_1.exe.config
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\Phase_1.exe
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\Phase_1.pdb
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Buffers.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Memory.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Text.Json.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Buffers.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Memory.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Text.Json.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\bin\Debug\System.ValueTuple.xml
+D:\OneDrive - VNU-HCMUS\Courses\Ky 2\Data Security in Information Systems - CSC12001\Project\code\Phase-1\Phase_1\obj\Debug\Phase_1.csproj.CopyComplete
