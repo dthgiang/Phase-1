@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PhanHe1
+namespace Phase_1
 {
     internal static class Program
     {

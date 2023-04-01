@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3A046926-CF1D-4045-BFB3-C8879CEA1610}</ProjectGuid>
+    <ProjectGuid>{F0D74725-8F07-4EF8-ABB0-6906BD149492}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PhanHe1</RootNamespace>
-    <AssemblyName>PhanHe1</AssemblyName>
+    <RootNamespace>Phase_1</RootNamespace>
+    <AssemblyName>Phase_1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -38,7 +38,6 @@
     <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
-    <Reference Include="Oracle.DataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
     <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
       <HintPath>..\packages\Oracle.ManagedDataAccess.21.9.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
     </Reference>
@@ -186,10 +185,25 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\theme.png" />
+    <None Include="Resources\F2.PNG" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\theme2.png" />
+    <None Include="Resources\F3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F5.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F6.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F7.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F8.PNG" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\theme3.png" />

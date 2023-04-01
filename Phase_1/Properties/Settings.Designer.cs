@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PhanHe1.Properties
+namespace Phase_1.Properties
 {
 
 
