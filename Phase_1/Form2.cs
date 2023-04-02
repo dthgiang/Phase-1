@@ -53,5 +53,36 @@ namespace Phase_1
             adt.Fill(userTable);
             dataGridView1.DataSource = userTable;
         }
+         private void dataGridView1_CellMouseClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                DataGridViewRow selectedRow = dataGridView1.SelectedRows[0];
+                UserTextBox.Text = selectedRow.Cells["USERNAME"].Value.ToString();
+
+            }
+        }
+        private void userProfileButton_Click(object sender, EventArgs e)
+        {
+            string username = UserTextBox.Text;
+            System.Diagnostics.Debug.WriteLine(username);
+        }
+
+ 
+
+        // for searching user
+        private void searchField_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void searchButton_Click(object sender, EventArgs e)
+        {
+            string searchname = searchField.Text;
+            searchField.Text = "";
+            System.Diagnostics.Debug.WriteLine(searchname);
+        }
+
+       
     }
 }

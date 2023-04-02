@@ -67,5 +67,62 @@ namespace Phase_1
             this.Location = new Point(x, y);
             raiseTable("select * from god.USER_PRIVS");
         }
+
+   
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string selectedValue = comboBox1.SelectedItem.ToString();
+            if (selectedValue == "Role")
+            {
+                raiseTable("select * from god.USER_PRIVS");
+            }
+            else
+            {
+                raiseTable("select * from god.ROLE_PRIVS");
+            }
+        }
+
+        private void revokeButton_Click(object sender, EventArgs e)
+        {
+
+            DialogResult result = MessageBox.Show("Are you sure to revoke this privilege from this user/role?", "Confirmation", MessageBoxButtons.YesNo);
+            if (result == DialogResult.Yes)
+            {
+                if (dataGridView1.SelectedRows.Count > 0)
+                {
+                    DataGridViewRow selectedRow = dataGridView1.SelectedRows[0];
+
+                    string priv = selectedRow.Cells["PRIVILEGE"].Value.ToString();
+                    string col = selectedRow.Cells["COLUMN_NAME"].Value.ToString();
+                    string user;
+
+                    string selectedValue = comboBox1.SelectedItem.ToString();
+                    user = selectedValue == "Role" ? "ROLE" : "GRANTEE";
+
+                    if (priv == "UPDATE")
+                    {
+                        System.Diagnostics.Debug.WriteLine("Xu li sau");
+                    }
+
+                    if (col == "")
+                    {
+                        System.Diagnostics.Debug.WriteLine("Col empty");
+                    }
+                    /*
+                    string SQLCommand = "REVOKE " + priv + " ON "
+                        + selectedRow.Cells["TABLE_NAME"].Value.ToString() + " FROM " + selectedRow.Cells[user].Value.ToString();
+                    System.Diagnostics.Debug.WriteLine(SQLCommand);
+                    */
+
+                }
+                else
+                {
+                    MessageBox.Show("Please choose the user or role", "Message", MessageBoxButtons.OK);
+
+                }
+            }
+     
+            
+        }
     }
 }
