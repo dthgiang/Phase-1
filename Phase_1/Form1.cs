@@ -18,7 +18,8 @@ namespace Phase_1
         public Form1()
         {
             InitializeComponent();
-            string connectionString = "TNS_ADMIN=C:\\Users\\ADMIN\\Oracle\\network\\admin;USER ID=GOD;Password=123;DATA SOURCE=localhost:1521/XE;PERSIST SECURITY INFO=True";
+            string connectionString = "Data Source=localhost;Persist Security Info=True;User ID=HIENTHU; password=21052002";
+
             connection = new OracleConnection(connectionString);
         }
 
@@ -59,7 +60,7 @@ namespace Phase_1
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Form7 f7 = new Form7();
+            Form7 f7 = new Form7(connection);
             this.Hide();
             f7.Show();
         }
